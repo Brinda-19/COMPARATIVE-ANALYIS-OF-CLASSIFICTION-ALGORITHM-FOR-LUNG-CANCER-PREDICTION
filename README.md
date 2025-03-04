@@ -63,6 +63,8 @@ The results of the model evaluation are summarized in the table below:
 - **Naive Bayes and KNN showed slightly lower accuracy (95.10% and 93.13%, respectively)** but still provided reliable predictions.  
 - The **Confusion Matrix** for each model was analyzed to understand the distribution of false positives and false negatives.  
 
+![image](https://github.com/user-attachments/assets/65d84403-db1a-4a0a-8281-b6184497b94f)
+
 #### **6. Conclusion**  
 This study demonstrates the effectiveness of machine learning algorithms in **predicting lung cancer based on patient attributes**. The results show that **Decision Tree and SVM models performed the best with an accuracy of 97.06%**, followed closely by **Logistic Regression (96.08%)**. The high precision, recall, and F1 scores indicate that these models can effectively classify lung cancer cases.  
 
