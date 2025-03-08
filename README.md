@@ -70,7 +70,7 @@ This study demonstrates the effectiveness of machine learning algorithms in **pr
 
 Future work could involve **testing on larger datasets, using deep learning techniques, or optimizing hyperparameters** to improve performance further. This project highlights the importance of machine learning in **early lung cancer detection**, which could potentially aid medical professionals in diagnosis and treatment planning. 🚀
 
-Runtime Difference – Short Note
+7.Runtime Difference 
 The runtime difference between Support Vector Machine (SVM) and Decision Tree was analyzed in terms of training time and prediction time.
 
 Training Time: SVM takes longer to train due to complex mathematical computations and optimization processes, while Decision Tree trains faster using a greedy approach.
